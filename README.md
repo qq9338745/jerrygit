@@ -1,2 +1,0 @@
-# jerrygit
-to learn git
